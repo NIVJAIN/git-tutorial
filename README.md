@@ -2,9 +2,13 @@
 A public repository for git tutorial
 
 # git branches
+git branch --list  
 git branch dev
 git checkout dev
 or
 git checkout -b dev (single command for creating branch and checkout branch)
 switch between branches
 git checkout dev | qa | prod | main
+
+Master branch
+git branch -m master  
